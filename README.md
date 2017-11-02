@@ -1,7 +1,7 @@
 # week8
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -44,3 +44,4 @@ Vulnerability #2: Session Hijacking/Fixation
 ## Notes
 
 Describe any challenges encountered while doing the work
+The instruction is really confuse that waste lots of time, hope can provide some hints to solve the problems.
