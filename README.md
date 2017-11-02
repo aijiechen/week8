@@ -27,7 +27,8 @@ Vulnerability #2: __________________
 
 Vulnerability #1: Username Enumeration
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Scripting (XSS)
+![cross-site scripting](https://user-images.githubusercontent.com/21352483/32303485-3f3b1754-bf3f-11e7-8757-25eee70beea3.gif)
 
 
 ## Red
