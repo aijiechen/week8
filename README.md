@@ -21,7 +21,7 @@ Vulnerability #1: SQL Injection (SQLi)
 
 
 Vulnerability #2: Session Hijacking/Fixation
-![session hijacking fixation_new](https://user-images.githubusercontent.com/21352483/32309002-1a270570-bf5f-11e7-892f-62a560a281bc.gif)
+![session hijacking fixation](https://user-images.githubusercontent.com/21352483/32309050-61452086-bf5f-11e7-8d62-197bc0f243db.gif)
 
 
 ## Green
