@@ -31,14 +31,19 @@ Vulnerability #2: Session Hijacking/Fixation
 Vulnerability #1: Username Enumeration
 
 ![username enumeration](https://user-images.githubusercontent.com/21352483/32309538-a6fae194-bf62-11e7-94d0-cadd00c6ae00.gif)
-![sqli](https://user-images.githubusercontent.com/21352483/32309530-945ad490-bf62-11e7-9560-323e3f799d88.gif)
+
+Vulnerability #2: Cross-Site Scripting (XSS)
+![cross-site scripting](https://user-images.githubusercontent.com/21352483/32309733-0c2aad0a-bf64-11e7-872d-d19665a561e7.gif)
+
+
+
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 ![insecure direct object reference idor](https://user-images.githubusercontent.com/21352483/32302633-067658a2-bf3a-11e7-9536-7de53e44db81.gif)
 
-Vulnerability #2: Session Hijacking/Fixation
+Vulnerability #2: cross-site request forgery csrf
 ![cross-site request forgery csrf](https://user-images.githubusercontent.com/21352483/32309186-396991c2-bf60-11e7-8667-19bfc78ec53a.gif)
 
 
