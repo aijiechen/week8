@@ -28,9 +28,8 @@ Vulnerability #2: Session Hijacking/Fixation
 
 Vulnerability #1: Username Enumeration
 
-Vulnerability #2: Cross-Site Scripting (XSS)
-![cross-site scripting](https://user-images.githubusercontent.com/21352483/32303485-3f3b1754-bf3f-11e7-8757-25eee70beea3.gif)
-
+![username enumeration](https://user-images.githubusercontent.com/21352483/32309538-a6fae194-bf62-11e7-94d0-cadd00c6ae00.gif)
+![sqli](https://user-images.githubusercontent.com/21352483/32309530-945ad490-bf62-11e7-9560-323e3f799d88.gif)
 
 ## Red
 
