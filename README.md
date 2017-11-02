@@ -20,7 +20,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: SQL Injection (SQLi)
 
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking/Fixation
+![session hijacking fixation_new](https://user-images.githubusercontent.com/21352483/32309002-1a270570-bf5f-11e7-892f-62a560a281bc.gif)
 
 
 ## Green
